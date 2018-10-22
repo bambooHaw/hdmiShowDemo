@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/gif">
+        <file>fastSmileDemo.gif</file>
+    </qresource>
+</RCC>
